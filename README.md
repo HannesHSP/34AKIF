@@ -1,2 +1,2 @@
 # 34AKIF
-3/4 AKIF | AT | MD | HTL
+3/4 AKIF | HTL  |  Mödling  |  AT
