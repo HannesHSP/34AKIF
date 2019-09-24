@@ -6,4 +6,4 @@ fifth line
 
 seventh line but no sixth line !!!!
 
-test
+test LOCAL CHANGE
